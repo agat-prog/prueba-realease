@@ -8,6 +8,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/agat-prog/prueba-realease.git</developerConnection>
+		<url>https://github.com/agat-prog/prueba-realease.git</url>
 	</scm>
 
 	<properties>
